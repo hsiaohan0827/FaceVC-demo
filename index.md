@@ -2,9 +2,14 @@
 
 This is the audio demo of paper 'Speech synthesis from Photo and Text'
 
-### Sample
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Intro 
+
+- **Speaker embedding from Pure Facial Feature**: apply only facial feature extraction 
+- **Speaker embedding from Transformed Facial Feature**: apply facial feature extraction + facial feature transformation
+
+
+### Demo Samples
 
 ```markdown
 Syntax highlighted code block
