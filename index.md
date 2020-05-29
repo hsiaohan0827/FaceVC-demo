@@ -1,10 +1,8 @@
 ## photoTTS - Audio Demo
 
-You can use the [editor on GitHub](https://github.com/hsiaohan0827/pohotoTTS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the audio demo of paper 'Speech synthesis from Photo and Text'
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Sample
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
